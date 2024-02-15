@@ -16,7 +16,7 @@ public class Main {
 		algoritmo.setListaAberta(listaAberta);
 		algoritmo.setListaFechada(listaFechada);
 		
-		//Definição do nó inicial aleatoria, contem valores de 0-8 e "_"
+		//Definição do nó inicial aleatori0, contem valores de 0-8 e "_"
 		No noInicial = new No();	
 		algoritmo.iniciar(noInicial);
 		
